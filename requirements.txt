@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+statsmodels
+joblib
+python-multipart
+openpyxl
+streamlit
+requests
+pycaret
+pycaret[models]
